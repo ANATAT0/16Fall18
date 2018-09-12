@@ -5,9 +5,9 @@ using UnityEngine;
 public class Dog : Animal {
 
 	// Use this for initialization
-	void Awake () 
+	void Awake ()
 	{
-		print("I am a dog")	
+		print("I am a dog");
 	}
 	
 	// Update is called once per frame
