@@ -15,9 +15,11 @@
         <entry file="file://$PROJECT_DIR$/Move.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
-                <marker date="1536786968655" expanded="false" signature="6:78" ph="..." />
+                <marker date="1536788025348" expanded="false" signature="6:78" ph="..." />
+                <marker date="1536788025348" expanded="true" signature="113:377" ph="{...}" />
+                <marker date="1536788025348" expanded="true" signature="257:375" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -45,8 +47,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="183" />
-    <option name="y" value="224" />
+    <option name="x" value="76" />
+    <option name="y" value="213" />
     <option name="width" value="1440" />
     <option name="height" value="774" />
   </component>
@@ -89,12 +91,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536786034492</updated>
-      <workItem from="1536786036984" duration="931000" />
+      <workItem from="1536786036984" duration="1991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="931000" />
+    <option name="totallyTimeSpent" value="1991000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -106,8 +108,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="183" y="224" width="1440" height="774" extended-state="0" />
-    <editor active="true" />
+    <frame x="76" y="213" width="1440" height="774" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
@@ -144,9 +145,11 @@
     <entry file="file://$PROJECT_DIR$/Move.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
-            <marker date="1536786968655" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536788025348" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536788025348" expanded="true" signature="113:377" ph="{...}" />
+            <marker date="1536788025348" expanded="true" signature="257:375" ph="{...}" />
           </folding>
         </state>
       </provider>
