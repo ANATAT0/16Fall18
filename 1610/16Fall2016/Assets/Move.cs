@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class Move : MonoBehaviour 
+{
 
+	public Vector3 Speed;
 	// Use this for initialization
-	void Start () 
+	private void Update()
 	{
-		print("I am a dog")
+		transform.Rotate(Speed);
 	}
 	
 	// Update is called once per frame
