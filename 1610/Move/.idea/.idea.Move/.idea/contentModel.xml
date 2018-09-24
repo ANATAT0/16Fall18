@@ -6,8 +6,15 @@
     <e p="C:\Users\Tommy\Documents\Git\16Fall18\1610\Move" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AddMoney.cs" t="Include" />
         <e p="CharacterControler.cs" t="Include" />
+        <e p="MoneyAndHealth" t="Include">
+          <e p="AddValue.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="MouseDownBehavior.cs" t="Include" />
+        </e>
         <e p="Move.cs" t="Include" />
+        <e p="Variables.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="Move.sln" t="IncludeFlat" />
