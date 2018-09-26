@@ -360,7 +360,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 282840810}
   m_LocalRotation: {x: -0, y: 0.57401264, z: -0, w: 0.8188465}
-  m_LocalPosition: {x: -4.46, y: 3.91, z: -5.18}
+  m_LocalPosition: {x: -3.834, y: 3.91, z: -6.905}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -543,7 +543,7 @@ CapsuleCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 786333063}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   m_Radius: 0.5000001
   m_Height: 2
@@ -598,7 +598,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 786333063}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.7033285, y: 1.74, z: -1.12}
+  m_LocalPosition: {x: 1.54, y: 1.8, z: -5.88}
   m_LocalScale: {x: 1, y: 0.033608485, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -612,17 +612,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 786333063}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4488cbc6f732c94996eb100bb992c3d, type: 3}
+  m_Script: {fileID: 11500000, guid: ef96056202853864a84050b7f46fca40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Event:
+  Enable:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  Trigger:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: bf4a478379692284ab9a705e04417ae6, type: 2}
-        m_MethodName: AddValueToObj
+      - m_Target: {fileID: 11400000, guid: fdba8f990691d634f8da0434a7a587e7, type: 2}
+        m_MethodName: OnPowerUp
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 05eea19d4afc0b844b364223444d9a0b,
+          m_ObjectArgument: {fileID: 11400000, guid: 39e3a4c279340d9499b6eb9cea8650e2,
             type: 2}
           m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
           m_IntArgument: 0
@@ -643,6 +648,7 @@ GameObject:
   - component: {fileID: 856558828}
   - component: {fileID: 856558830}
   - component: {fileID: 856558831}
+  - component: {fileID: 856558832}
   m_Layer: 0
   m_Name: CharaSprite1
   m_TagString: Untagged
@@ -736,6 +742,23 @@ CapsuleCollider:
   m_Radius: 2.4
   m_Height: 5.5299993
   m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!143 &856558832
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 856558827}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 5.5299993
+  m_Radius: 2.4
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1087395374
 GameObject:
@@ -5465,7 +5488,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1095768426}
   m_LocalRotation: {x: -0.70752186, y: 0.00008982885, z: -0.00006900951, w: 0.70669144}
-  m_LocalPosition: {x: 3.101791, y: 2.9144552, z: -5.5603113}
+  m_LocalPosition: {x: 1.02, y: 2.91, z: -10.58}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
