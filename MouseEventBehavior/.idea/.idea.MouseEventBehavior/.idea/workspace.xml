@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b4ef8fe-ace0-48df-8d71-a806967fcc74" name="Default Changelist" comment="" />
+    <list default="true" id="3d5043db-c377-44da-9ac5-12007939fd7b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,94 +9,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="2017629584">
+    <session id="-1446509587">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="415" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="415" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="4" />
+          <entry key="cs" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="4" />
+          <entry key="C#" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Move" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Move.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/AddValue.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <marker date="1536891399148" expanded="false" signature="6:78" ph="..." />
-                <marker date="1536891399148" expanded="true" signature="113:377" ph="{...}" />
-                <marker date="1536891399148" expanded="true" signature="257:375" ph="{...}" />
+                <marker date="1537932322906" expanded="true" signature="6:44" ph="..." />
+                <marker date="1537932322906" expanded="true" signature="105:220" ph="{...}" />
+                <marker date="1537932322906" expanded="true" signature="179:217" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1537932967589" expanded="true" signature="6:44" ph="..." />
+                <marker date="1537932967589" expanded="true" signature="92:175" ph="{...}" />
+                <marker date="1537932967589" expanded="true" signature="149:173" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/FloatData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1537932109679" expanded="true" signature="80:107" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/MouseDownBehavior.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseEventBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="270">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
-                <marker date="1537503792225" expanded="true" signature="6:44" ph="..." />
-                <marker date="1537503792225" expanded="true" signature="92:175" ph="{...}" />
-                <marker date="1537503792225" expanded="true" signature="149:173" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/AddValue.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <marker date="1537505371895" expanded="true" signature="6:44" ph="..." />
-                <marker date="1537505371895" expanded="true" signature="105:220" ph="{...}" />
-                <marker date="1537505371895" expanded="true" signature="179:217" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/FloatData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" />
-              <folding>
-                <marker date="1537503381720" expanded="true" signature="80:106" ph="{...}" />
+                <marker date="1537929567244" expanded="false" signature="6:44" ph="..." />
+                <marker date="1537929567244" expanded="true" signature="93:268" ph="{...}" />
+                <marker date="1537929567244" expanded="true" signature="184:212" ph="{...}" />
+                <marker date="1537929567244" expanded="true" signature="239:265" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -105,20 +88,20 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Move.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/MoneyAndHealth/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/MoneyAndHealth/MouseDownBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/MoneyAndHealth/AddValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEventBehaviors/AddValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs" />
       </list>
     </option>
   </component>
@@ -140,12 +123,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -187,21 +170,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b4ef8fe-ace0-48df-8d71-a806967fcc74" name="Default Changelist" comment="" />
-      <created>1536891780744</created>
+      <changelist id="3d5043db-c377-44da-9ac5-12007939fd7b" name="Default Changelist" comment="" />
+      <created>1537932089048</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536891780744</updated>
-      <workItem from="1536891798263" duration="600000" />
-      <workItem from="1537070776101" duration="33000" />
-      <workItem from="1537503225045" duration="2779000" />
-      <workItem from="1537930267298" duration="504000" />
-      <workItem from="1537931089532" duration="983000" />
+      <updated>1537932089048</updated>
+      <workItem from="1537932092962" duration="154000" />
+      <workItem from="1537932266657" duration="916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4899000" />
+    <option name="totallyTimeSpent" value="1070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -214,10 +194,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.18550107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5010846" side_tool="true" weight="0.18336888" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -232,7 +213,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -260,62 +241,49 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Moneys/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Moneys/MouseDownBehavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
-          <folding>
-            <marker date="1537503381720" expanded="true" signature="80:106" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Move.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <marker date="1536891399148" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536891399148" expanded="true" signature="113:377" ph="{...}" />
-            <marker date="1536891399148" expanded="true" signature="257:375" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/AddValue.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/AddValue.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <marker date="1537505371895" expanded="true" signature="6:44" ph="..." />
-            <marker date="1537505371895" expanded="true" signature="105:220" ph="{...}" />
-            <marker date="1537505371895" expanded="true" signature="179:217" ph="{...}" />
+            <marker date="1537932322906" expanded="true" signature="6:44" ph="..." />
+            <marker date="1537932322906" expanded="true" signature="105:220" ph="{...}" />
+            <marker date="1537932322906" expanded="true" signature="179:217" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MoneyAndHealth/MouseDownBehavior.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <marker date="1537503792225" expanded="true" signature="6:44" ph="..." />
-            <marker date="1537503792225" expanded="true" signature="92:175" ph="{...}" />
-            <marker date="1537503792225" expanded="true" signature="149:173" ph="{...}" />
+            <marker date="1537932967589" expanded="true" signature="6:44" ph="..." />
+            <marker date="1537932967589" expanded="true" signature="92:175" ph="{...}" />
+            <marker date="1537932967589" expanded="true" signature="149:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537932109679" expanded="true" signature="80:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseEventBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1537929567244" expanded="false" signature="6:44" ph="..." />
+            <marker date="1537929567244" expanded="true" signature="93:268" ph="{...}" />
+            <marker date="1537929567244" expanded="true" signature="184:212" ph="{...}" />
+            <marker date="1537929567244" expanded="true" signature="239:265" ph="{...}" />
           </folding>
         </state>
       </provider>
