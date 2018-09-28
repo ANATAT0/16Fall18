@@ -12,32 +12,95 @@
     <session id="-1446509587">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="375" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="375" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/AddValue.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/Move.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <marker date="1537932322906" expanded="true" signature="6:44" ph="..." />
+                <marker date="1538109066875" expanded="true" signature="6:78" ph="..." />
+                <marker date="1538109066875" expanded="true" signature="113:428" ph="{...}" />
+                <marker date="1538109066875" expanded="true" signature="257:426" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/BoxMove.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <marker date="1538110233441" expanded="true" signature="56:386" ph="{...}" />
+                <marker date="1538110233441" expanded="true" signature="171:384" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/PowerUp.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1538105878756" expanded="true" signature="78:218" ph="{...}" />
+                <marker date="1538105878756" expanded="true" signature="162:215" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/TriggerEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1538105878761" expanded="false" signature="6:44" ph="..." />
+                <marker date="1538105878761" expanded="true" signature="87:243" ph="{...}" />
+                <marker date="1538105878761" expanded="true" signature="164:189" ph="{...}" />
+                <marker date="1538105878761" expanded="true" signature="213:239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/AddValue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1537932322906" expanded="false" signature="6:44" ph="..." />
                 <marker date="1537932322906" expanded="true" signature="105:220" ph="{...}" />
                 <marker date="1537932322906" expanded="true" signature="179:217" ph="{...}" />
               </folding>
@@ -45,22 +108,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <marker date="1537932967589" expanded="true" signature="6:44" ph="..." />
-                <marker date="1537932967589" expanded="true" signature="92:175" ph="{...}" />
-                <marker date="1537932967589" expanded="true" signature="149:173" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/FloatData.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
@@ -71,10 +120,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseEventBehavior.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/MouseDownBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state>
+              <folding>
+                <marker date="1537932967589" expanded="false" signature="6:44" ph="..." />
+                <marker date="1537932967589" expanded="true" signature="92:175" ph="{...}" />
+                <marker date="1537932967589" expanded="true" signature="149:173" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/MouseEventBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <marker date="1537929567244" expanded="false" signature="6:44" ph="..." />
                 <marker date="1537929567244" expanded="true" signature="93:268" ph="{...}" />
@@ -91,10 +152,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/PowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/MouseEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/BoxMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,6 +167,8 @@
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEventBehaviors/AddValue.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/BoxMove.cs" />
       </list>
     </option>
   </component>
@@ -111,11 +178,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="667" />
-    <option name="y" value="28" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="588" />
+    <option name="y" value="74" />
     <option name="width" value="1252" />
-    <option name="height" value="961" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,12 +190,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -177,11 +244,12 @@
       <updated>1537932089048</updated>
       <workItem from="1537932092962" duration="154000" />
       <workItem from="1537932266657" duration="1675000" />
+      <workItem from="1538107671971" duration="3095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1829000" />
+    <option name="totallyTimeSpent" value="4924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,11 +261,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="588" y="74" width="1252" height="960" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" id="Errors In Solution" order="0" visible="true" weight="0.25251678" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.52407" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -216,9 +285,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,27 +313,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1537932322906" expanded="true" signature="6:44" ph="..." />
-            <marker date="1537932322906" expanded="true" signature="105:220" ph="{...}" />
-            <marker date="1537932322906" expanded="true" signature="179:217" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1537932109679" expanded="true" signature="80:107" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseEventBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/MouseDownBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537932967589" expanded="false" signature="6:44" ph="..." />
+            <marker date="1537932967589" expanded="true" signature="92:175" ph="{...}" />
+            <marker date="1537932967589" expanded="true" signature="149:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/MouseEventBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <marker date="1537929567244" expanded="false" signature="6:44" ph="..." />
             <marker date="1537929567244" expanded="true" signature="93:268" ph="{...}" />
@@ -275,14 +356,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/MouseDownBehavior.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/TriggerEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state>
           <folding>
-            <marker date="1537932967589" expanded="true" signature="6:44" ph="..." />
-            <marker date="1537932967589" expanded="true" signature="92:175" ph="{...}" />
-            <marker date="1537932967589" expanded="true" signature="149:173" ph="{...}" />
+            <marker date="1538105878761" expanded="false" signature="6:44" ph="..." />
+            <marker date="1538105878761" expanded="true" signature="87:243" ph="{...}" />
+            <marker date="1538105878761" expanded="true" signature="164:189" ph="{...}" />
+            <marker date="1538105878761" expanded="true" signature="213:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/AddValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537932322906" expanded="false" signature="6:44" ph="..." />
+            <marker date="1537932322906" expanded="true" signature="105:220" ph="{...}" />
+            <marker date="1537932322906" expanded="true" signature="179:217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537932109679" expanded="true" signature="80:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/PowerUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1538105878756" expanded="true" signature="78:218" ph="{...}" />
+            <marker date="1538105878756" expanded="true" signature="162:215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/Move.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1538109066875" expanded="true" signature="6:78" ph="..." />
+            <marker date="1538109066875" expanded="true" signature="113:428" ph="{...}" />
+            <marker date="1538109066875" expanded="true" signature="257:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MouseEventBehaviors/Scripts/BoxMove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <marker date="1538110233441" expanded="true" signature="56:386" ph="{...}" />
+            <marker date="1538110233441" expanded="true" signature="171:384" ph="{...}" />
           </folding>
         </state>
       </provider>
