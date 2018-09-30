@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a61c4e073465d04f88ef6c917014aff, type: 3}
   m_Name: RockHealth
   m_EditorClassIdentifier: 
-  Value: 300
+  Value: 200
