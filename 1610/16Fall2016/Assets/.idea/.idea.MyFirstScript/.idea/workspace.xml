@@ -24,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddMoney.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddMoney.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../Move/Assets/AddMoney.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -39,6 +39,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="IfStatements.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../MouseEventBehavior/Assets/MouseEventBehaviors/Scripts/IfStatements.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding>
+                <marker date="1538428342152" expanded="true" signature="62:427" ph="{...}" />
+                <marker date="1538428342152" expanded="true" signature="160:424" ph="{...}" />
+                <marker date="1538428342152" expanded="true" signature="187:246" ph="{...}" />
+                <marker date="1538428342152" expanded="true" signature="289:352" ph="{...}" />
+                <marker date="1538428342152" expanded="true" signature="365:404" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -48,8 +64,9 @@
     <setting file="file://$PROJECT_DIR$/MyFirstScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Dog.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Move.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../../Move/Assets/Variables.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../Move/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Animal.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../MouseEventBehavior/Assets/MouseEventBehaviors/Scripts/IfStatements.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../Move/Assets/AddMoney.cs" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
@@ -63,6 +80,7 @@
         <option value="$PROJECT_DIR$/Move.cs" />
         <option value="$PROJECT_DIR$/../../Move/Assets/Variables.cs" />
         <option value="$PROJECT_DIR$/../../Move/Assets/AddMoney.cs" />
+        <option value="$PROJECT_DIR$/../../../MouseEventBehavior/Assets/MouseEventBehaviors/Scripts/IfStatements.cs" />
       </list>
     </option>
   </component>
@@ -72,9 +90,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="224" />
-    <option name="y" value="155" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-158" />
+    <option name="y" value="206" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -120,11 +138,12 @@
       <workItem from="1536612651955" duration="2553000" />
       <workItem from="1536785222664" duration="746000" />
       <workItem from="1537217313099" duration="3174000" />
+      <workItem from="1538427687043" duration="654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6473000" />
+    <option name="totallyTimeSpent" value="7127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,7 +155,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="224" y="155" width="1440" height="780" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -147,7 +166,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25724638" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -166,24 +185,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25724638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Unit Tests" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,16 +213,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Move/Assets/Variables.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <marker date="1537220027303" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537220027303" expanded="true" signature="118:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Move/Assets/AddMoney.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <marker date="1537220694161" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537220694161" expanded="true" signature="118:239" ph="{...}" />
+            <marker date="1537220694161" expanded="true" signature="185:209" ph="{...}" />
+            <marker date="1537220694161" expanded="true" signature="230:237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyFirstScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <marker date="1536613437685" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536613437685" expanded="true" signature="123:266" ph="{...}" />
-            <marker date="1536613437685" expanded="true" signature="171:202" ph="{...}" />
-            <marker date="1536613437685" expanded="true" signature="257:264" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -218,32 +255,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <marker date="1536784159599" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536784159599" expanded="true" signature="106:248" ph="{...}" />
-            <marker date="1536784159599" expanded="true" signature="181:184" ph="{...}" />
-            <marker date="1536784159599" expanded="true" signature="239:246" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doggo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Doggo.cs" />
     <entry file="file://$PROJECT_DIR$/Move.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <marker date="1536785833198" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536785833198" expanded="true" signature="114:292" ph="{...}" />
-            <marker date="1536785833198" expanded="true" signature="195:228" ph="{...}" />
-            <marker date="1536785833198" expanded="true" signature="283:290" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -251,12 +270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <marker date="1536613437685" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536613437685" expanded="true" signature="123:266" ph="{...}" />
-            <marker date="1536613437685" expanded="true" signature="171:202" ph="{...}" />
-            <marker date="1536613437685" expanded="true" signature="257:264" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -264,22 +277,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <marker date="1536784159599" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536784159599" expanded="true" signature="106:248" ph="{...}" />
-            <marker date="1536784159599" expanded="true" signature="181:184" ph="{...}" />
-            <marker date="1536784159599" expanded="true" signature="239:246" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doggo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Doggo.cs" />
     <entry file="file://$PROJECT_DIR$/../../New Dog/Assets/Dog.cs" />
     <entry file="file://$PROJECT_DIR$/Animal.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -293,32 +294,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1536613437685" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536613437685" expanded="true" signature="123:266" ph="{...}" />
-            <marker date="1536613437685" expanded="true" signature="171:202" ph="{...}" />
-            <marker date="1536613437685" expanded="true" signature="257:264" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doggo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Doggo.cs" />
     <entry file="file://$PROJECT_DIR$/Move.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <marker date="1536785833198" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536785833198" expanded="true" signature="114:292" ph="{...}" />
-            <marker date="1536785833198" expanded="true" signature="195:228" ph="{...}" />
-            <marker date="1536785833198" expanded="true" signature="283:290" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -333,12 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1536784159599" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536784159599" expanded="true" signature="106:248" ph="{...}" />
-            <marker date="1536784159599" expanded="true" signature="181:184" ph="{...}" />
-            <marker date="1536784159599" expanded="true" signature="239:246" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -362,6 +339,20 @@
             <marker date="1537220694161" expanded="true" signature="118:239" ph="{...}" />
             <marker date="1537220694161" expanded="true" signature="185:209" ph="{...}" />
             <marker date="1537220694161" expanded="true" signature="230:237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../MouseEventBehavior/Assets/MouseEventBehaviors/Scripts/IfStatements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <marker date="1538428342152" expanded="true" signature="62:427" ph="{...}" />
+            <marker date="1538428342152" expanded="true" signature="160:424" ph="{...}" />
+            <marker date="1538428342152" expanded="true" signature="187:246" ph="{...}" />
+            <marker date="1538428342152" expanded="true" signature="289:352" ph="{...}" />
+            <marker date="1538428342152" expanded="true" signature="365:404" ph="{...}" />
           </folding>
         </state>
       </provider>
