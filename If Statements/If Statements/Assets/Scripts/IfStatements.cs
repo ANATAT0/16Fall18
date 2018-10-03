@@ -9,11 +9,29 @@ public class IfStatements : MonoBehaviour
 	public string Password;
 	public int A, B, C;
 
+	public FloatData WizardPower, PawnPower;
+	public NameID Lock, Key;
+
 	void Update()
 	{
+		if (Lock == Key)
+		{
+			print("Open Door");
+		}
+		
+		if (WizardPower.Value > PawnPower.Value)
+		{
+			print("The Wizard wins");
+		}
+		
 		if (LightOn)
 		{
 			print("The light is on.");
+		}
+
+		else
+		{
+			print("The light is off.");
 		}
 
 		if (Password == "OU812")
@@ -26,5 +44,6 @@ public class IfStatements : MonoBehaviour
 			print("C");
 		}
 	}
+
 
 }
