@@ -79,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Instancing.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Instancing.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -94,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DestroyObject.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DestroyObject.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -241,12 +241,12 @@
       <workItem from="1538599986913" duration="23000" />
       <workItem from="1538600954954" duration="263000" />
       <workItem from="1538601232721" duration="1846000" />
-      <workItem from="1539031211363" duration="2510000" />
+      <workItem from="1539031211363" duration="2966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7726000" />
+    <option name="totallyTimeSpent" value="8182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,7 +259,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="242" y="75" width="1252" height="903" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -538,19 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <marker date="1539033073735" expanded="true" signature="6:44" ph="..." />
-            <marker date="1539033073735" expanded="true" signature="85:288" ph="{...}" />
-            <marker date="1539033073735" expanded="true" signature="167:281" ph="{...}" />
-            <marker date="1539033073735" expanded="true" signature="205:278" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -560,6 +546,19 @@
             <marker date="1539033723930" expanded="true" signature="123:326" ph="{...}" />
             <marker date="1539033723930" expanded="true" signature="148:217" ph="{...}" />
             <marker date="1539033723930" expanded="true" signature="266:324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1539033073735" expanded="true" signature="6:44" ph="..." />
+            <marker date="1539033073735" expanded="true" signature="85:288" ph="{...}" />
+            <marker date="1539033073735" expanded="true" signature="167:281" ph="{...}" />
+            <marker date="1539033073735" expanded="true" signature="205:278" ph="{...}" />
           </folding>
         </state>
       </provider>
