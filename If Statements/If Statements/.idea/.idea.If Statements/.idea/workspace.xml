@@ -108,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WhatCanSeeIt.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WhatCanSeeIt.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="709">
@@ -128,11 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LocalVars.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LocalVars.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state>
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding>
                 <marker date="1539206437781" expanded="false" signature="6:78" ph="..." />
                 <marker date="1539206437781" expanded="true" signature="118:322" ph="{...}" />
@@ -294,12 +294,12 @@
       <workItem from="1538600954954" duration="263000" />
       <workItem from="1538601232721" duration="1846000" />
       <workItem from="1539031211363" duration="2966000" />
-      <workItem from="1539204322783" duration="2093000" />
+      <workItem from="1539204322783" duration="2694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10275000" />
+    <option name="totallyTimeSpent" value="10876000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -708,6 +708,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1539206437781" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539206437781" expanded="true" signature="118:322" ph="{...}" />
+            <marker date="1539206437781" expanded="true" signature="168:226" ph="{...}" />
+            <marker date="1539206437781" expanded="true" signature="264:319" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="709">
@@ -722,19 +735,6 @@
             <marker date="1539205523506" expanded="true" signature="439:501" ph="{...}" />
             <marker date="1539205523506" expanded="true" signature="538:637" ph="{...}" />
             <marker date="1539205523506" expanded="true" signature="559:635" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <marker date="1539206437781" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539206437781" expanded="true" signature="118:322" ph="{...}" />
-            <marker date="1539206437781" expanded="true" signature="168:226" ph="{...}" />
-            <marker date="1539206437781" expanded="true" signature="264:319" ph="{...}" />
           </folding>
         </state>
       </provider>
