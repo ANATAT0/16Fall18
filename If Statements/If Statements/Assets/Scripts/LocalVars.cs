@@ -8,7 +8,7 @@ public class LocalVars : MonoBehaviour
 
     public void Call()
     {
-        Name = "Bobbie";
+        Name = "Tommy";
         print(Name);
     }
 

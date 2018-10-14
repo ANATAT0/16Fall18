@@ -17,17 +17,18 @@
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="528" />
+          <entry key="cs" value="533" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="528" />
+          <entry key="C#" value="533" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,25 +45,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="210">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <marker date="1539395192837" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539395192837" expanded="true" signature="118:322" ph="{...}" />
-                <marker date="1539395192837" expanded="true" signature="168:226" ph="{...}" />
-                <marker date="1539395192837" expanded="true" signature="264:319" ph="{...}" />
+                <marker date="1539494136637" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539494136637" expanded="true" signature="118:321" ph="{...}" />
+                <marker date="1539494136637" expanded="true" signature="168:225" ph="{...}" />
+                <marker date="1539494136637" expanded="true" signature="263:318" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1538537450734" expanded="true" signature="78:87" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,8 +75,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <marker date="1538537068329" expanded="true" signature="80:105" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,9 +130,6 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -136,6 +141,9 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -191,11 +199,12 @@
       <workItem from="1539204322783" duration="2694000" />
       <workItem from="1539396777699" duration="599000" />
       <workItem from="1539407424709" duration="17000" />
+      <workItem from="1539494091495" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11492000" />
+    <option name="totallyTimeSpent" value="11549000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,8 +217,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="242" y="75" width="1252" height="903" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2852349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29026845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -260,20 +270,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalBars.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -281,14 +277,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <marker date="1538537068329" expanded="true" signature="80:105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="210">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
-            <marker date="1539395192837" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539395192837" expanded="true" signature="118:322" ph="{...}" />
-            <marker date="1539395192837" expanded="true" signature="168:226" ph="{...}" />
-            <marker date="1539395192837" expanded="true" signature="264:319" ph="{...}" />
+            <marker date="1539494136637" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539494136637" expanded="true" signature="118:321" ph="{...}" />
+            <marker date="1539494136637" expanded="true" signature="168:225" ph="{...}" />
+            <marker date="1539494136637" expanded="true" signature="263:318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1538537450734" expanded="true" signature="78:87" ph="{...}" />
           </folding>
         </state>
       </provider>
