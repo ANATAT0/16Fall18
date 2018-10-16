@@ -12,7 +12,7 @@
     <session id="905277158">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -46,7 +46,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <file pinned="false" current-in-tab="false">
+=======
+      <file pinned="false" current-in-tab="true">
+>>>>>>> Stashed changes
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -151,7 +155,7 @@
 >>>>>>> Stashed changes
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -298,12 +302,12 @@
       <workItem from="1539204322783" duration="2694000" />
       <workItem from="1539396777699" duration="599000" />
       <workItem from="1539407424709" duration="17000" />
-      <workItem from="1539494091495" duration="57000" />
+      <workItem from="1539494091495" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11549000" />
+    <option name="totallyTimeSpent" value="11597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -441,6 +445,16 @@
           <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <marker date="1538537068329" expanded="true" signature="80:105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1538537450734" expanded="true" signature="78:87" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -683,6 +697,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -729,5 +744,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
   </component>
 </project>
