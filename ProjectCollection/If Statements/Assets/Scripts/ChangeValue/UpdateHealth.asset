@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8721a790140111f43bd27ed78277fd9b, type: 3}
+  m_Name: UpdateHealth
+  m_EditorClassIdentifier: 
+  Data: {fileID: 11400000, guid: 9dd394ad1eb580647893960ac3c6fde0, type: 2}
