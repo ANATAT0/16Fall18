@@ -2,15 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TransformObject : MonoBehaviour {
+public class TransformObject : MonoBehaviour
+{
 
-	// Use this for initialization
-	void Start () {
+	public Vector3 Movement;
+	
+	void Start () 
+	{
 		
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
+	void Update ()
+	{
+		//transform.Translate(Movement);
+		transform.Rotate(Movement);
 	}
 }

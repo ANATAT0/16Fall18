@@ -18,6 +18,7 @@
           <e p="DestroyObject.cs" t="Include" />
           <e p="Enum" t="Include">
             <e p="Movements.cs" t="Include" />
+            <e p="TransformObject.cs" t="Include" />
           </e>
           <e p="FloatData.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />

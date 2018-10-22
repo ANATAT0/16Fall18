@@ -15,20 +15,22 @@ public class Movements : MonoBehaviour
 
 	public Vector3 Movement;
 	public float Speed;
-	
-	void Update () 
+
+	void Update()
 	{
 		switch (CurrentMovementType)
 		{
-				case MovementType.MoveX:
-					Movement.x = Speed;
-					break;
-				case MovementType.MoveY:
-					Movement.y = Speed;
-					break;
-				case MovementType.MoveZ:
-					Movement.z = Speed;
-					break;
+			case MovementType.MoveX:
+				Movement.x = Speed;
+				break;
+			case MovementType.MoveY:
+				Movement.y = Speed;
+				break;
+			case MovementType.MoveZ:
+				Movement.z = Speed;
+				break;
+		}
+
+		transform.Rotate(Movement * Time.deltaTime);
 	}
-		transform.Rotate(Movement*Time.deltaTime);
 }
