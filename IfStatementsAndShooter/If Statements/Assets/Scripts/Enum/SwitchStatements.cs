@@ -19,6 +19,7 @@ public class SwitchStatements : MonoBehaviour
 				
 				case GameStates.States.Loading:
 					print("We are loading the Game");
+					break;
 				
 				case GameStates.States.Playing:
 					print("We are playing the Game");
