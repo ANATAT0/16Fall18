@@ -32,7 +32,36 @@ public class SwitchStatements : MonoBehaviour
 				case GameStates.States.Ending:
 					print("We are ending the Game");
 					break;
-		}
+				
+				case GameStates.States.Revive:
+					print("We have revived from the dead");
+					break;
+				
+				case GameStates.States.RecoverHealth:
+					print("Health Restored!");
+					break;
+				
+				case GameStates.States.EatDonut:
+					print("Time for a donut");
+					break;
+				
+				case GameStates.States.DrinkPotion:
+					print("Drinking the potion");
+					break;
+				
+				case GameStates.States.UseSpecialAttack:
+					print("Super Special Attack: Donut Punch!");
+					break;
+				
+				case GameStates.States.UsePrimaryAttack:
+					print("Use Main Fire");
+					break;
+				
+				case GameStates.States.UseAlternativeAttack:
+					print("Use Alternate Fire");
+					break;
+		}	
+		
 	}
 	
 }

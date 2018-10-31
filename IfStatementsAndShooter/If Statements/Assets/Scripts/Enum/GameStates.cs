@@ -6,7 +6,15 @@
 		Loading,
 		Playing,
 		GameOver,
-		Ending
+		Ending,
+		Revive,
+		RecoverHealth,
+		DrinkPotion, 
+		UseSpecialAttack,
+		UseAlternativeAttack,
+		UsePrimaryAttack,
+		EatDonut
+		
 	}
 
 	public States State;
