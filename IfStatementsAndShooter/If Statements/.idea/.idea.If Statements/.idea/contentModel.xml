@@ -30,7 +30,10 @@
           <e p="Instancing.cs" t="Include" />
           <e p="InstancingBase.cs" t="Include" />
           <e p="LocalVars.cs" t="Include" />
-          <e p="Loops.cs" t="Include" />
+          <e p="Loops" t="Include">
+            <e p="LetterLoop.cs" t="Include" />
+            <e p="Loops.cs" t="Include" />
+          </e>
           <e p="MouseDownBehavior.cs" t="Include" />
           <e p="MouseEventBehavior.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
