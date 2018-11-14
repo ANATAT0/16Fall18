@@ -11,6 +11,9 @@
             <e p="AIAgent.cs" t="Include" />
             <e p="BasicAI.cs" t="Include" />
           </e>
+          <e p="AnimationController" t="Include">
+            <e p="UpdateAnims.cs" t="Include" />
+          </e>
           <e p="ChangeValue" t="Include">
             <e p="AddValue.cs" t="Include" />
             <e p="ChangeValue.cs" t="Include" />
