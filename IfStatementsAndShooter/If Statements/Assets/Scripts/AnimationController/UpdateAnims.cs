@@ -1,16 +1,20 @@
 ﻿using UnityEngine;
 
-private Animator anims;
-public float speed;
+public class UpdateAnims : MonoBehaviour
+{
 
-	void Start (){
-	{
-		Animas = GetComponent<Animator>();
-	}
+	private Animator anims;
+	public float Speed;
 
+	void Start ()
+	
+		{
+			anims = GetComponent<Animator>();
+		}
 
-	void Update () 
-	{
-		anims.SetFloat("Speed", speed);	
-	}
+	void Update ()
+		{
+			anims.SetFloat("Speed", Speed);
+		}
+	
 }
