@@ -3,6 +3,7 @@
 public class CharacterMover : MonoBehaviour
 {
 	public CharacterController Controller;
+	public float Speed = 3.0f;
 	
 	
 	public float Gravity = 9.81f;
