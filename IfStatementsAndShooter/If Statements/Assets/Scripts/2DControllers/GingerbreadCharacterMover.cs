@@ -12,6 +12,8 @@ public class GingerbreadCharacterMover : MonoBehaviour
 	private Animator anim;
 
 	private bool facingRight = true;
+
+	private bool Attack;
 	
 	private bool isGrounded;
 	public Transform groundCheck;
@@ -50,9 +52,30 @@ public class GingerbreadCharacterMover : MonoBehaviour
 		{
 			Flip();
 		}
+
+		Attacks();
+		
+		ResetValues();
+		
+	}
+
+	private void Attacks()
+	{
+		if (Attack)
+		{
+			anim.SetTrigger("Attack");
+		}
 	}
 
 
+	private void HandleInput()
+	{
+		if (Input.GetKeyDown(KeyCode.LeftShift))
+		{
+			Attack = true;
+		}
+	}
+	
 	void Flip()
 	{
 		facingRight = !facingRight;
@@ -79,6 +102,15 @@ public class GingerbreadCharacterMover : MonoBehaviour
 		{
 			rb.velocity = Vector2.up * JumpForce;
 		}
-		
+
+		HandleInput();
+
+	}
+
+	private void ResetValues()
+	{
+		Attack = false;
 	}
 }
+
+	
