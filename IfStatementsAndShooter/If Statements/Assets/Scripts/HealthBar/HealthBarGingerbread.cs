@@ -5,19 +5,20 @@ using UnityEngine.UI;
 
 public class HealthBarGingerbread : MonoBehaviour
 {
-	Image HealthbarGingerbread;
+	Image Healthbar;
 	float maxHealth = 100f;
 	public static float health;
 	
+	
 	void Start ()
 	{
-		HealthbarGingerbread = GetComponent<Image>();
+		Healthbar = GetComponent<Image> ();
 		health = maxHealth;
 	}
 	
-	// Update is called once per frame
+	
 	void Update ()
 	{
-		HealthbarGingerbread.fillAmount = health / maxHealth;
+		Healthbar.fillAmount = health / maxHealth;
 	}
 }
