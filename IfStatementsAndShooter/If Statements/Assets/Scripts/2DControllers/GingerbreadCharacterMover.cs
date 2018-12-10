@@ -70,7 +70,7 @@ public class GingerbreadCharacterMover : MonoBehaviour
 
 	private void HandleInput()
 	{
-		if (Input.GetKeyDown(KeyCode.LeftShift))
+		if (Input.GetKeyDown(KeyCode.Mouse0))
 		{
 			Attack = true;
 		}

@@ -18,7 +18,7 @@ public class PlayerAttack : MonoBehaviour
 		if (timeBtwAttack <= 0)
 		{
 			//then you can attack
-			if (Input.GetKey(KeyCode.LeftShift))
+			if (Input.GetKey(KeyCode.Mouse0))
 			{
 				Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange, whatIsEnemies);
 				for (int i = 0; i < enemiesToDamage.Length; i++)

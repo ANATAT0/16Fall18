@@ -7,9 +7,8 @@ public class Enemy : MonoBehaviour
 
 	public int health;
 
-	void Start () {
-		
-	}
+	public GameObject AttackEffect;
+
 	
 	void Update () 
 	{
@@ -22,6 +21,7 @@ public class Enemy : MonoBehaviour
 
 	public void TakeDamage(int damage)
 	{
+		Instantiate(AttackEffect, transform.position, Quaternion.identity);
 		health -= damage;
 		Debug.Log("damage Taken!");
 	}
