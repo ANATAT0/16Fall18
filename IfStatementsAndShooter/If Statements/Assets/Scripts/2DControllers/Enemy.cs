@@ -7,12 +7,14 @@ public class Enemy : MonoBehaviour
 
 	public int health;
 
+
+	private Animator anim;
 	public GameObject AttackEffect;
 
-	
+
 	void Update () 
 	{
-		if (health < 0)
+		if (health <= 0)
 		{
 			Destroy(gameObject);
 		}
