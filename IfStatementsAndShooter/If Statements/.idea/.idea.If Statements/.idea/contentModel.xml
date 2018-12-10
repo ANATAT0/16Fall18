@@ -10,9 +10,11 @@
         <e p="Scripts" t="Include">
           <e p="2DControllers" t="Include">
             <e p="AIAgent.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
             <e p="FlyingPatrol.cs" t="Include" />
             <e p="GingerbreadCharacterMover.cs" t="Include" />
             <e p="Patrol.cs" t="Include" />
+            <e p="PlayerAttack.cs" t="Include" />
           </e>
           <e p="AddToCollection.cs" t="Include" />
           <e p="AnimationController" t="Include">
