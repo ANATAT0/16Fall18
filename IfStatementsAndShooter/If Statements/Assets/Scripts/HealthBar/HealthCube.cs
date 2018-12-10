@@ -22,6 +22,12 @@ public class HealthCube : MonoBehaviour
 		
 		for (int i = 0; i < Bar.Length; i++)
 		{
+			if (health < 0)
+			{
+				gameObject.SetActive(false);
+			
+			}	
+			
 			if (i < health)
 			{
 				Bar[i].sprite = RedBar;
@@ -41,4 +47,7 @@ public class HealthCube : MonoBehaviour
 			}
 		}
 	}
+
 }
+	
+
