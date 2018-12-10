@@ -39,6 +39,7 @@
             <e p="HealthCube.cs" t="Include" />
             <e p="PlayerAttack.cs" t="Include" />
             <e p="PlayerHealthManager.cs" t="Include" />
+            <e p="Spikes.cs" t="Include" />
           </e>
           <e p="IfStatements.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />

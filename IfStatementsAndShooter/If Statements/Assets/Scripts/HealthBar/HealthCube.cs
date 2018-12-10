@@ -5,30 +5,32 @@ using UnityEngine.UI;
 
 public class HealthCube : MonoBehaviour
 {
-	public int health;
-	public int numOfBars;
+	public int Health;
+	public int NumOfBars;
 
 	public Image[] Bar;
 	public Sprite RedBar;
 	public Sprite EmptyBar;
 
+
 	void Update()
 	{
-		if (health > numOfBars)
+		if (Health > NumOfBars)
 		{
-			health = numOfBars;
+			Health = NumOfBars;
 		}
 		
 		
 		for (int i = 0; i < Bar.Length; i++)
 		{
-			if (health < 0)
+			
+			if (Health < 0)
 			{
 				gameObject.SetActive(false);
 			
 			}	
 			
-			if (i < health)
+			if (i < Health)
 			{
 				Bar[i].sprite = RedBar;
 			}
@@ -37,7 +39,7 @@ public class HealthCube : MonoBehaviour
 				Bar[i].sprite = EmptyBar;
 			}
 			
-			if (i< numOfBars )
+			if (i< NumOfBars )
 			{
 				Bar[i].enabled = true;
 				}

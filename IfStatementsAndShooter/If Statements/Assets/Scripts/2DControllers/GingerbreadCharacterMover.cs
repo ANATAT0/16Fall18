@@ -4,25 +4,32 @@ using UnityEngine;
 
 public class GingerbreadCharacterMover : MonoBehaviour
 {
+	//Floats
 	public float Speed;
 	public float JumpForce;
 	private float moveInput;
 
+	//Animators
 	private Rigidbody2D rb;
 	private Animator anim;
 
+	//Bools
 	private bool facingRight = true;
-
 	private bool Attack;
-	
 	private bool isGrounded;
+	
+	//Ground
 	public Transform groundCheck;
 	public float checkRadius;
 	public LayerMask whatIsGround;
 
+	//Jumps
 	private int extraJumps;
 	public int extraJumpValue;
 
+	//Stats
+	public int CurrentHealth;
+	public int MaxHealth = 7;
 
 
 
@@ -32,6 +39,8 @@ public class GingerbreadCharacterMover : MonoBehaviour
 		rb = GetComponent<Rigidbody2D>();
 
 		anim = GetComponent<Animator>();
+
+		CurrentHealth = MaxHealth;
 	}
 
 
@@ -83,6 +92,11 @@ public class GingerbreadCharacterMover : MonoBehaviour
 		Scaler.x *= -1;
 		transform.localScale = Scaler;
 	}
+
+	public void Damage(int dmg)
+	{
+		CurrentHealth -= dmg;
+	}
 	
 
 	void Update()
@@ -105,11 +119,31 @@ public class GingerbreadCharacterMover : MonoBehaviour
 
 		HandleInput();
 
+		if (CurrentHealth > MaxHealth)
+		{
+			CurrentHealth = MaxHealth;
+		}
+
+		if (CurrentHealth <= 0)
+		{
+			Die();
+		}
+
+			
+	
+		
 	}
 
 	private void ResetValues()
 	{
 		Attack = false;
+	}
+
+	void Die()
+	{
+		
+		//Restart
+		Application.LoadLevel(Application.loadedLevel);
 	}
 }
 

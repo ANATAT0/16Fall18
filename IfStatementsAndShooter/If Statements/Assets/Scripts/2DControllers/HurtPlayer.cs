@@ -19,7 +19,7 @@ public class HurtPlayer : MonoBehaviour
 
 	private void OnTriggerEnter2D(Collider2D other)
 	{
-		if (other.gameObject.name == "GingerBreadPlayer")
+		if (other.gameObject.name == "Player")
 		{
 			other.gameObject.GetComponent<PlayerHealthManager>() .HurtPlayer(damageToGive);
 		}
