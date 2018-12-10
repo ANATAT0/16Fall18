@@ -1,10 +1,16 @@
-﻿using System.Collections;
+﻿/* not in use
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
+
+
 public class HealthCube : MonoBehaviour
-{
+
+{ 
 	public int Health;
 	public int NumOfBars;
 
@@ -53,3 +59,4 @@ public class HealthCube : MonoBehaviour
 }
 	
 
+*/

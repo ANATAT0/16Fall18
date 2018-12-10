@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spikes : MonoBehaviour
+public class GumdropDmg : MonoBehaviour
 {
 
 	private GingerbreadCharacterMover player;
@@ -16,7 +16,7 @@ public class Spikes : MonoBehaviour
 	{
 		if (col.CompareTag("Player"))
 		{
-			player.Damage(3);
+			player.Damage(1);
 		}
 	}
 }

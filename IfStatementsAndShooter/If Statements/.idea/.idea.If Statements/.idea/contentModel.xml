@@ -36,7 +36,10 @@
           </e>
           <e p="FloatData.cs" t="Include" />
           <e p="HealthBar" t="Include">
+            <e p="BatDmg.cs" t="Include" />
+            <e p="GumdropDmg.cs" t="Include" />
             <e p="HealthCube.cs" t="Include" />
+            <e p="HealthOperate.cs" t="Include" />
             <e p="PlayerAttack.cs" t="Include" />
             <e p="PlayerHealthManager.cs" t="Include" />
             <e p="Spikes.cs" t="Include" />
