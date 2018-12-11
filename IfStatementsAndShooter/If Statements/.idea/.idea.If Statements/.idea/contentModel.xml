@@ -8,18 +8,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="2DControllers" t="Include">
-            <e p="AIAgent.cs" t="Include" />
-            <e p="Enemy.cs" t="Include" />
-            <e p="FlyingPatrol.cs" t="Include" />
-            <e p="GingerbreadCharacterMover.cs" t="Include" />
-            <e p="HurtPlayer.cs" t="Include" />
-            <e p="Patrol.cs" t="Include" />
-          </e>
           <e p="AddToCollection.cs" t="Include" />
-          <e p="AnimationController" t="Include">
-            <e p="UpdateAnims.cs" t="Include" />
-          </e>
           <e p="ChangeValue" t="Include">
             <e p="AddValue.cs" t="Include" />
             <e p="ChangeValue.cs" t="Include" />
@@ -34,16 +23,34 @@
             <e p="SwitchStatements.cs" t="Include" />
             <e p="TransformObject.cs" t="Include" />
           </e>
-          <e p="FloatData.cs" t="Include" />
-          <e p="HealthBar" t="Include">
-            <e p="BatDmg.cs" t="Include" />
-            <e p="GumdropDmg.cs" t="Include" />
-            <e p="HealthCube.cs" t="Include" />
-            <e p="HealthOperate.cs" t="Include" />
-            <e p="PlayerAttack.cs" t="Include" />
-            <e p="PlayerHealthManager.cs" t="Include" />
-            <e p="Spikes.cs" t="Include" />
+          <e p="FinalGame" t="Include">
+            <e p="2DControllers" t="Include">
+              <e p="AIAgent.cs" t="Include" />
+              <e p="Enemy.cs" t="Include" />
+              <e p="FlyingPatrol.cs" t="Include" />
+              <e p="GingerbreadCharacterMover.cs" t="Include" />
+              <e p="HurtPlayer.cs" t="Include" />
+              <e p="Patrol.cs" t="Include" />
+            </e>
+            <e p="AnimationController" t="Include">
+              <e p="UpdateAnims.cs" t="Include" />
+            </e>
+            <e p="GameManager" t="Include">
+              <e p="EndTrigger.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+            </e>
+            <e p="HealthBar" t="Include">
+              <e p="BatDmg.cs" t="Include" />
+              <e p="CandyCornDmg.cs" t="Include" />
+              <e p="GumdropDmg.cs" t="Include" />
+              <e p="HealthCube.cs" t="Include" />
+              <e p="HealthOperate.cs" t="Include" />
+              <e p="PlayerAttack.cs" t="Include" />
+              <e p="PlayerHealthManager.cs" t="Include" />
+              <e p="Spikes.cs" t="Include" />
+            </e>
           </e>
+          <e p="FloatData.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
           <e p="InstancingBase.cs" t="Include" />
