@@ -29,10 +29,14 @@ public class GingerbreadCharacterMover : MonoBehaviour
 
 	//Stats
 	public int CurrentHealth;
-	public int MaxHealth = 7;
+	public int MaxHealth = 6;
 
+	//HealthRecovery
+	public float HealthTimer;
+	public bool HealthRespawn = false;
+	public GameObject Donut;
 
-
+	
 	void Start()
 	{
 		extraJumps = extraJumpValue;
@@ -43,6 +47,8 @@ public class GingerbreadCharacterMover : MonoBehaviour
 		CurrentHealth = MaxHealth;
 	}
 
+
+	
 
 	void FixedUpdate()
 	{
@@ -129,7 +135,17 @@ public class GingerbreadCharacterMover : MonoBehaviour
 			Die();
 		}
 
-			
+		/*
+		if (HealthRespawn)
+		{
+			HealthTimer += Time.deltaTime;
+			if (HealthTimer > 10.0f)
+			{
+				Donut.gameObject.SetActive(true);
+				HealthTimer = 0.0f;
+			}
+		}
+		*/
 	
 		
 	}

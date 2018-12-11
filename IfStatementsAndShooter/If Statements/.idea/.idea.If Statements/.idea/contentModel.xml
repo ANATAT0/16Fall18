@@ -59,6 +59,7 @@
           <e p="ObjectCollection.cs" t="Include" />
           <e p="PowerUps" t="Include">
             <e p="DonutPowerUp.cs" t="Include" />
+            <e p="HealthRecover.cs" t="Include" />
           </e>
           <e p="WhatCanSeeIt.cs" t="Include" />
         </e>

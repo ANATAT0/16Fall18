@@ -1,19 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using System.Globalization;
-using UnityEngine.Events;
+
 
 public class DonutPowerUp : MonoBehaviour
 {
-	public int donutValue = 5;
-	public static UnityAction<int> UpdateDonut;
 
-	private void OnTriggerEnter(Collider col)
+	private GingerbreadCharacterMover player;
+
+	void Start()
 	{
-		UpdateDonut(donutValue);
-		gameObject.SetActive(false);
+		player = GameObject.FindGameObjectWithTag("Player").GetComponent<GingerbreadCharacterMover>();
+	}
+
+	private void OnTriggerEnter2D(Collider2D col)
+	{
+		if (col.CompareTag("Player"))
+		{
+			player.Damage(-3);
+			Destroy(gameObject);
+		}
 	}
 }
-
