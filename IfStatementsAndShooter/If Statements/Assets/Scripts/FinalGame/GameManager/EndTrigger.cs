@@ -2,15 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EndTrigger : MonoBehaviour {
+public class EndTrigger : MonoBehaviour
+{
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+	public GameManager gameManager;
+
+	private void OnTriggerEnter2D()
+	{
+		gameManager.CompleteLevel();
 	}
 }
